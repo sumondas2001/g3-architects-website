@@ -217,6 +217,21 @@ main{
 .sponspors-img-container img{
     width: 165px;
 }
+/* footer section start */
+.footer{
+    background-color: #FFF4E7;
+    height: 100px;
+    border: 5px;
+    margin: 130px 240px ;
+    border-radius: 8px;
+   
+
+}
+.footer-title{
+    text-align: center;
+    padding: 38px ;
+   
+}
 
 
 
@@ -257,9 +272,10 @@ main{
     .facts-card-container{
         gap: 20px;
     }
-    
-    
-}
+    .footer{
+       margin: 10px ;
+    }
+
 /* mediums devices and tablet */
 @media screen and (min-width:576px) and (max-width:992px) {
     
